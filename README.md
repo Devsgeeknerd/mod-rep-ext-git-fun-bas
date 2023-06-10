@@ -1,40 +1,27 @@
-# PWA — SERVICE WORKWERS E PROGRESSIVE WEB APPS
+<!-- Título -->
+# Repositórios Externos
 
-***Aulas:***
+***Conteúdo do Módulo:***
 
-- [ ] Introdução e Conceitos.
-- [ ] Ciclo de Vida.
-- [ ] Rodando com GitHub Pages.
-- [ ] Rodando em Servidor Local.
-- [ ] Registrando um ServiceWorker.
-- [ ] Ciclo de Vida do Arquivo.
-- [ ] Instalando, Ativando e Atualizando.
-- [ ] Testando Cache com Fetch.
-- [ ] Notificações — Introdução.
-- [ ] Notificações — Permissão e Teste.
-- [ ] Notificações — Fluxo.
-- [ ] Notificações — Subscribe e Recebendo Endpoint.
-- [ ] Notificações — Unsubscribe.
-- [ ] Notificações — Eviando Dados Para o Servidor.
-- [ ] Notificações — Testando o Push Notification.
-- [ ] Notificações — Inserindo Icone na Notificação.
-- [ ] Notificações — Notificação Fixa.
-- [ ] Notificações — Evento de Clique.
-- [ ] Notificações — Actions.
-- [ ] Notificações — Receber Dados Dinâmicos.
+* [ ] [As Principais Plataformas Para Armazenamento de Códigos-fonte.](https://github.com/Devsgeeknerd/cla-as-pri-pla-par-arm-cod-fon-rep-ext-git-fun-bas) &#128679;
+* [ ] [Como Criar Repositório no GitLab.](https://github.com/Devsgeeknerd/cla-com-cri-rep-lab-rep-ext-git-fun-bas) &#128679;
+* [ ] [Criando Repositório no BitBucket.](https://github.com/Devsgeeknerd/cla-cri-rep-bit-rep-ext-git-fun-bas) &#128679;
+* [ ] [Criando Repositório no GitHub.](https://github.com/Devsgeeknerd/cla-cri-rep-hub-rep-ext-git-fun-bas) &#128679;
+* [ ] [Linkando Repositório Local Com o Externo.](https://github.com/Devsgeeknerd/cla-lin-rep-loc-com-ext-rep-ext-git-fun-bas) &#128679;
 
-## INFORMAÇÕES
+<!-- Informações -->
+## &#8505; Informações
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.pwa-front-end-zp "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fmod-rep-ext-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/pwa-front-end-zp?style=social "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-rep-ext-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/pwa-front-end-zp?style=social "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/mod-rep-ext-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/pwa-front-end-zp?style=social "Total de Forks")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-rep-ext-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/pwa-front-end-zp?style=social "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-rep-ext-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/pwa-front-end-zp?style=social "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-rep-ext-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
