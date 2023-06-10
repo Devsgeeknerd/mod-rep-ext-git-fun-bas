@@ -1,5 +1,5 @@
 <!-- Título -->
-# Repositórios Externos
+# Repositórios — Externos
 
 ***Conteúdo do Módulo:***
 
