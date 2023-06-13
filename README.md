@@ -7,7 +7,7 @@
 * [x] [Como Criar Repositório no GitLab.](https://github.com/Devsgeeknerd/cla-com-cri-rep-lab-rep-ext-git-fun-bas)
 * [x] [Criando Repositório no BitBucket.](https://github.com/Devsgeeknerd/cla-cri-rep-bit-rep-ext-git-fun-bas)
 * [x] [Criando Repositório no GitHub.](https://github.com/Devsgeeknerd/cla-cri-rep-hub-rep-ext-git-fun-bas)
-* [ ] [Linkando Repositório Local Com o Externo.](https://github.com/Devsgeeknerd/cla-lin-rep-loc-com-ext-rep-ext-git-fun-bas) &#128679;
+* [x] [Linkando Repositório Local Com o Externo.](https://github.com/Devsgeeknerd/cla-lin-rep-loc-com-ext-rep-ext-git-fun-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
