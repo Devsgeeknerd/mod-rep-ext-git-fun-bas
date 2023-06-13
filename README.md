@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [As Principais Plataformas Para Armazenamento de Códigos-fonte.](https://github.com/Devsgeeknerd/cla-as-pri-pla-par-arm-cod-fon-rep-ext-git-fun-bas) &#128679;
+* [x] [As Principais Plataformas Para Armazenamento de Códigos-fonte.](https://github.com/Devsgeeknerd/cla-as-pri-pla-par-arm-cod-fon-rep-ext-git-fun-bas)
 * [ ] [Como Criar Repositório no GitLab.](https://github.com/Devsgeeknerd/cla-com-cri-rep-lab-rep-ext-git-fun-bas) &#128679;
 * [ ] [Criando Repositório no BitBucket.](https://github.com/Devsgeeknerd/cla-cri-rep-bit-rep-ext-git-fun-bas) &#128679;
 * [ ] [Criando Repositório no GitHub.](https://github.com/Devsgeeknerd/cla-cri-rep-hub-rep-ext-git-fun-bas) &#128679;
